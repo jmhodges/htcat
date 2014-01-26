@@ -17,10 +17,9 @@ This represents 91% use of the theoretical maximum.
 ## Installation ##
 
 This program depends on a Go 1.1 installation.  One can use a remote
-`go get` and then `go install` to compile it from source:
+`go get` to compile it from source:
 
     $ go get github.com/htcat/htcat/cmd/htcat
-    $ go install github.com/htcat/htcat/cmd/htcat
 
 ## Help and Reporting Bugs ##
 
